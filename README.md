@@ -26,6 +26,12 @@
 ## 🚀 Quick Start (Pick One!)
 
 ### Option 1: Ultimate (Recommended)
+
+First things first!
+unzip codemind.zip
+
+cd codemind && ./install.sh
+
 ```bash
 python3 ultimate.py
 ```
