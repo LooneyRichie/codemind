@@ -30,7 +30,8 @@
 First things first!
 unzip codemind.zip
 
-cd codemind && ./install.sh
+Navigate to codemind
+cd codemind
 
 ```bash
 python3 ultimate.py
